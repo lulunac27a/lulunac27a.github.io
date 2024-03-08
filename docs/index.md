@@ -11,3 +11,5 @@ I'm smart and intelligent, I'm good at math, numbers, astronomy and space.
 - [Text Counter Web Application in Scala using Scala.js and Laminar](https://github.com/lulunac27a/text-counter-scala-js-application)
 - [Gamification Todo List with Vue and TypeScript](https://github.com/lulunac27a/gamification-todo-list-vue-typescript)
 - [Print Date and Time in Java](https://github.com/lulunac27a/java-datetime/)
+  
+<script async defer src="https://buttons.github.io/buttons.js"></script>
