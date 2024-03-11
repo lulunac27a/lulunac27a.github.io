@@ -1,8 +1,8 @@
 <a class="github-button" href="https://github.com/lulunac27a" data-size="large" data-show-count="true" aria-label="Follow @lulunac27a on GitHub">Follow @lulunac27a</a>
 
-# lulunac27a GitHub Profile
+# Lucas (lulunac27a) GitHub Profile
 
-I'm smart and intelligent, good at math, numbers, astronomy, and space, and a good computer programmer. 
+I'm Lucas. I'm smart and intelligent, good at math, numbers, astronomy, and space, and a good computer programmer. 
 
 ### My projects
 
