@@ -6,7 +6,7 @@ I'm smart and intelligent, good at math, numbers, astronomy, and space, and a go
 
 ### My projects
 
-- [Text Counter Application in Java, Kotlin, Scala, and Groovy](https://github.com/lulunac27a/text-counter-java-application)
+- [Text Counter Application in Java, Kotlin, and Groovy](https://github.com/lulunac27a/text-counter-java-application)
 - [Text Counter Web Application in .NET using C# and F#](https://github.com/lulunac27a/text-counter-asp.net-application)
 - [Text Counter Web Application in Scala using Scala.js and Laminar](https://github.com/lulunac27a/text-counter-scala-js-application)
 - [Gamification Todo List with Vue and TypeScript](https://github.com/lulunac27a/gamification-todo-list-vue-typescript)
