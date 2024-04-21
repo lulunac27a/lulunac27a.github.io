@@ -12,5 +12,6 @@ I'm Lucas. I'm smart and intelligent, good at math, numbers, astronomy, and spac
 - [Gamification Todo List with Vue and TypeScript](https://github.com/lulunac27a/gamification-todo-list-vue-typescript) - [Documentation](https://lulunac27a.github.io/gamification-todo-list-vue-typescript)
 - [Print Date and Time in Java](https://github.com/lulunac27a/java-datetime/) - [Documentation](https://lulunac27a.github.io/java-datetime)
 - [Ordering Shop in CoffeeScript](https://github.com/lulunac27a/ordering-shop-coffeescript/) - [Documentation](https://lulunac27a.github.io/ordering-shop-coffeescript)
+- [Dice Game in Haxe](https://github.com/lulunac27a/dice-game-haxe/) - [Documentation](https://lulunac27a.github.io/dice-game-haxe)
   
 <script async defer src="https://buttons.github.io/buttons.js"></script>
