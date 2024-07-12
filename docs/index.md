@@ -16,5 +16,7 @@ I'm Lucas. I'm smart and intelligent, good at math, numbers, astronomy, and spac
 - [Counter App in Go](https://github.com/lulunac27a/counter-app-in-go/) - [Documentation](https://lulunac27a.github.io/counter-app-in-go)
 - [Bingo Game with Score](https://github.com/lulunac27a/bingo-game-with-score/) - [Documentation](https://lulunac27a.github.io/bingo-game-with-score)
 - [Number Guessing game in ReScript](https://github.com/lulunac27a/number-guessing-game-rescript/) - [Documentation](https://lulunac27a.github.io/number-guessing-game-rescript)
+- [Recurring Event Calculator in Spring Boot and Thymeleaf](https://github.com/lulunac27a/event-calculator-springboot/) - [Documentation](https://lulunac27a.github.io/event-calculator-springboot)
+- [Angular Clicker Game](https://github.com/lulunac27a/angular-clicker-game/) - [Documentation](https://lulunac27a.github.io/angular-clicker-game)
   
 <script async defer src="https://buttons.github.io/buttons.js"></script>
