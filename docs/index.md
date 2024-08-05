@@ -19,5 +19,6 @@ I'm Lucas. I'm smart and intelligent, good at math, numbers, astronomy, and spac
 - [Recurring Event Calculator in Spring Boot and Thymeleaf](https://github.com/lulunac27a/event-calculator-springboot/) - [Documentation](https://lulunac27a.github.io/event-calculator-springboot)
 - [Angular Clicker Game](https://github.com/lulunac27a/angular-clicker-game/) - [Documentation](https://lulunac27a.github.io/angular-clicker-game)
 - [Endless Simple Idle Game in React]](https://github.com/lulunac27a/react-endless-simple-idle-game/) - [Documentation](https://lulunac27a.github.io/react-endless-simple-idle-game)
+- [TypeScript Character Typing Game]](https://github.com/lulunac27a/typescript-character-typing-game/) - [Documentation](https://lulunac27a.github.io/typescript-character-typing-game)
   
 <script async defer src="https://buttons.github.io/buttons.js"></script>
