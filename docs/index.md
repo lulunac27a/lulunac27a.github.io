@@ -26,5 +26,6 @@ I'm Lucas. I'm smart and intelligent, good at math, numbers, astronomy, and spac
 - [Flask Endless Task List App](https://github.com/lulunac27a/flask-endless-task-list-app/) - [Documentation](https://lulunac27a.github.io/flask-endless-task-list-app)
 - [Text Counter Application using Flask](https://github.com/lulunac27a/flask-text-counter-application) - [Documentation](https://lulunac27a.github.io/flask-text-counter-application)
 - [Repeating Event Calculator using Flask](https://github.com/lulunac27a/flask-event-calculator/) - [Documentation](https://lulunac27a.github.io/flask-event-calculator)
+- [Text Counter Application using R Shiny](https://github.com/lulunac27a/r-shiny-text-counter-application) - [Documentation](https://lulunac27a.github.io/r-shiny-text-counter-application)
   
 <script async defer src="https://buttons.github.io/buttons.js"></script>
