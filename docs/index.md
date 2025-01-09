@@ -21,5 +21,10 @@ I'm Lucas. I'm smart and intelligent, good at math, numbers, astronomy, and spac
 - [Endless Simple Idle Game in React](https://github.com/lulunac27a/react-endless-simple-idle-game/) - [Documentation](https://lulunac27a.github.io/react-endless-simple-idle-game)
 - [TypeScript Character Typing Game](https://github.com/lulunac27a/typescript-character-typing-game/) - [Documentation](https://lulunac27a.github.io/typescript-character-typing-game)
 - [Astronomical Planet Positions with Rise and Set Times and Sun](https://github.com/lulunac27a/r-shiny-astronomical-planet-positions/) - [Documentation](https://lulunac27a.github.io/r-shiny-astronomical-planet-positions)
+- [Print Date and Time in All Supported Formats in R Shiny](https://github.com/lulunac27a/r-shiny-datetime/) - [Documentation](https://lulunac27a.github.io/r-shiny-datetime)
+- [Flask Endless Level XP System](https://github.com/lulunac27a/flask-endless-level-xp/) - [Documentation](https://lulunac27a.github.io/flask-endless-level-xp)
+- [Flask Endless Task List App](https://github.com/lulunac27a/flask-endless-task-list-app/) - [Documentation](https://lulunac27a.github.io/flask-endless-task-list-app)
+- [Text Counter Application using Flask](https://github.com/lulunac27a/flask-text-counter-application) - [Documentation](https://lulunac27a.github.io/flask-text-counter-application)
+- [Repeating Event Calculator using Flask](https://github.com/lulunac27a/flask-event-calculator/) - [Documentation](https://lulunac27a.github.io/flask-event-calculator)
   
 <script async defer src="https://buttons.github.io/buttons.js"></script>
