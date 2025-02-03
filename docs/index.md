@@ -4,7 +4,7 @@
 
 I'm Lucas. I'm smart and intelligent, good at math, numbers, astronomy, and space, and a good computer programmer. 
 
-### My projects I've made
+## My projects I've made
 
 - [Text Counter Application in Java, Kotlin, and Groovy](https://github.com/lulunac27a/text-counter-java-application) - [Documentation](https://lulunac27a.github.io/text-counter-java-application)
 - [Text Counter Web Application in .NET using C# and F#](https://github.com/lulunac27a/text-counter-dot-net-application) - [Documentation](https://lulunac27a.github.io/text-counter-dot-net-application)
