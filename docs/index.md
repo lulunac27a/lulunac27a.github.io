@@ -10,8 +10,8 @@ I'm Lucas. I'm smart and intelligent, good at math, numbers, astronomy, and spac
 - [Text Counter Application in Java, Kotlin, and Groovy](https://github.com/lulunac27a/text-counter-java-application) - [Documentation](https://lulunac27a.github.io/text-counter-java-application)
 - [Text Counter Web Application in .NET using C# and F#](https://github.com/lulunac27a/text-counter-dot-net-application) - [Documentation](https://lulunac27a.github.io/text-counter-dot-net-application)
 - [Text Counter Web Application in Scala using Scala.js and Laminar](https://github.com/lulunac27a/text-counter-scala-js-application) - [Documentation](https://lulunac27a.github.io/text-counter-scala-js-application)
-- [Text Counter Application using Flask](https://github.com/lulunac27a/flask-text-counter-application) - [Documentation](https://lulunac27a.github.io/flask-text-counter-application)
 - [Text Counter Application using R Shiny](https://github.com/lulunac27a/r-shiny-text-counter-application) - [Documentation](https://lulunac27a.github.io/r-shiny-text-counter-application)
+- [Text Counter Application using Flask](https://github.com/lulunac27a/flask-text-counter-application) - [Documentation](https://lulunac27a.github.io/flask-text-counter-application)
 ### Gamification Task Lists
 - [Gamification Task List with Vue and TypeScript](https://github.com/lulunac27a/gamification-task-list-vue-typescript) - [Documentation](https://lulunac27a.github.io/gamification-todo-list-vue-typescript)
 - [Flask Endless Task List App](https://github.com/lulunac27a/flask-endless-task-list-app/) - [Documentation](https://lulunac27a.github.io/flask-endless-task-list-app)
@@ -19,11 +19,11 @@ I'm Lucas. I'm smart and intelligent, good at math, numbers, astronomy, and spac
 - [Print Date and Time in Java](https://github.com/lulunac27a/java-datetime/) - [Documentation](https://lulunac27a.github.io/java-datetime)
 - [Print Date and Time in All Supported Formats in R Shiny](https://github.com/lulunac27a/r-shiny-datetime/) - [Documentation](https://lulunac27a.github.io/r-shiny-datetime)
 ### Repeating Event Calculators
-- [Recurring Event Calculator in Spring Boot and Thymeleaf](https://github.com/lulunac27a/event-calculator-springboot/) - [Documentation](https://lulunac27a.github.io/event-calculator-springboot)
 - [Repeating Event Calculator using Flask](https://github.com/lulunac27a/flask-event-calculator/) - [Documentation](https://lulunac27a.github.io/flask-event-calculator)
+- [Recurring Event Calculator in Spring Boot and Thymeleaf](https://github.com/lulunac27a/event-calculator-springboot/) - [Documentation](https://lulunac27a.github.io/event-calculator-springboot)
 ### Clicker and Idle Games
-- [Angular Clicker Game](https://github.com/lulunac27a/angular-clicker-game/) - [Documentation](https://lulunac27a.github.io/angular-clicker-game)
 - [Endless Simple Idle Game in React](https://github.com/lulunac27a/react-endless-simple-idle-game/) - [Documentation](https://lulunac27a.github.io/react-endless-simple-idle-game)
+- [Angular Clicker Game](https://github.com/lulunac27a/angular-clicker-game/) - [Documentation](https://lulunac27a.github.io/angular-clicker-game)
 ### Games
 - [Bingo Game with Score](https://github.com/lulunac27a/bingo-game-with-score/) - [Documentation](https://lulunac27a.github.io/bingo-game-with-score)
 - [Dice Game in Haxe](https://github.com/lulunac27a/dice-game-haxe/) - [Documentation](https://lulunac27a.github.io/dice-game-haxe)
