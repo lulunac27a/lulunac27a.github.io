@@ -34,5 +34,7 @@ I'm Lucas. I'm smart and intelligent, good at math, numbers, astronomy, and spac
 - [Counter App in Go](https://github.com/lulunac27a/counter-app-in-go/) - [Documentation](https://lulunac27a.github.io/counter-app-in-go)
 - [Astronomical Planet Positions with Rise and Set Times and Sun](https://github.com/lulunac27a/r-shiny-astronomical-planet-positions/) - [Documentation](https://lulunac27a.github.io/r-shiny-astronomical-planet-positions)
 - [Flask Endless Level XP System](https://github.com/lulunac27a/flask-endless-level-xp/) - [Documentation](https://lulunac27a.github.io/flask-endless-level-xp)
+- [Simple Task List App in Sinatra](https://github.com/lulunac27a/simple-task-list-sinatra/) - [Documentation](https://lulunac27a.github.io/simple-task-list-sinatra)
+- [Endless Task List Adventure](https://github.com/lulunac27a/endless-task-list-adventure/) - [Documentation](https://lulunac27a.github.io/endless-task-list-adventure)
   
 <script async defer src="https://buttons.github.io/buttons.js"></script>
