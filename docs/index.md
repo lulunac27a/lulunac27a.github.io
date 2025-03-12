@@ -28,6 +28,7 @@ I'm Lucas. I'm smart and intelligent, good at math, numbers, astronomy, and spac
 - [Bingo Game with Score](https://github.com/lulunac27a/bingo-game-with-score/) - [Documentation](https://lulunac27a.github.io/bingo-game-with-score)
 - [Dice Game in Haxe](https://github.com/lulunac27a/dice-game-haxe/) - [Documentation](https://lulunac27a.github.io/dice-game-haxe)
 - [Number Guessing Game in ReScript](https://github.com/lulunac27a/number-guessing-game-rescript/) - [Documentation](https://lulunac27a.github.io/number-guessing-game-rescript)
+- [Number Guessing Game in Javascript](https://github.com/lulunac27a/number-guessing-game-js-with-score/) - [Documentation](https://lulunac27a.github.io/number-guessing-game-js-with-score)
 - [TypeScript Character Typing Game](https://github.com/lulunac27a/typescript-character-typing-game/) - [Documentation](https://lulunac27a.github.io/typescript-character-typing-game)
 ### Other Projects
 - [Ordering Shop in CoffeeScript](https://github.com/lulunac27a/ordering-shop-coffeescript/) - [Documentation](https://lulunac27a.github.io/ordering-shop-coffeescript)
