@@ -2,7 +2,7 @@
 data-show-count="true" aria-label="Follow @lulunac27a on GitHub">Follow
 @lulunac27a</a>
 
-# Lucas (lulunac27a/) GitHub Profile
+# Lucas (lulunac27a) GitHub Profile
 
 I'm Lucas. I'm smart and intelligent, good at math, numbers, astronomy, and
 space, and a good computer programmer.
