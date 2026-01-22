@@ -85,6 +85,10 @@ space, and a good computer programmer.
 - [Simple Python App](https://github.com/lulunac27a/simple-python-app/) -
   [Documentation](https://lulunac27a.github.io/simple-python-app/)
 - [Speed Typing Game](https://github.com/lulunac27a/typing-speed-game-command-line-app/) - [Documentation](https://lulunac27a.github.io/typing-speed-game-command-line-app/)
+### Form Validations
+- [HTML Form Validation](https://github.com/lulunac27a/html-form-validation/) -
+  [Documentation](https://lulunac27a.github.io/html-form-validation/)
+- [PHP Form Validation](https://github.com/lulunac27a/php-form-validation) - [Documentation](https://lulunac27a.github.io/php-form-validation/)
 ### Other Projects
 -
   [Ordering Shop in CoffeeScript](https://github.com/lulunac27a/ordering-shop-coffeescript/)
@@ -128,8 +132,6 @@ space, and a good computer programmer.
 -
   [Simple Rating System Web App](https://github.com/lulunac27a/simple-rating-system-webapp/)
   - [Documentation](https://lulunac27a.github.io/simple-rating-system-webapp/)
-- [HTML Form Validation](https://github.com/lulunac27a/html-form-validation/) -
-  [Documentation](https://lulunac27a.github.io/html-form-validation/)
 -
   [Number Statistics Web App](https://github.com/lulunac27a/number-statistics-webapp/)
   - [Documentation](https://lulunac27a.github.io/number-statistics-webapp/)
@@ -176,6 +178,4 @@ space, and a good computer programmer.
 -
   [Current Date and Time Progress](https://github.com/lulunac27a/current-date-time-progress/)
   - [Documentation](https://lulunac27a.github.io/current-date-time-progress/)
-- [PHP Form Validation](https://github.com/lulunac27a/php-form-validation) -
-  [Documentation](https://lulunac27a.github.io/php-form-validation/) <script
-  async defer src="https://buttons.github.io/buttons.js"></script>
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
