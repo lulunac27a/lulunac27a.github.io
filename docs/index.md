@@ -26,7 +26,11 @@ space, and a good computer programmer.
   [Text Counter Application using R Shiny](https://github.com/lulunac27a/r-shiny-text-counter-application/)
   -
   [Documentation](https://lulunac27a.github.io/r-shiny-text-counter-application/)
-- [Text Counter Application using Flask](https://github.com/lulunac27a/flask-text-counter-application/) - [Documentation](https://lulunac27a.github.io/flask-text-counter-application/)
+-
+  [Text Counter Application using Flask](https://github.com/lulunac27a/flask-text-counter-application/)
+  -
+  [Documentation](https://lulunac27a.github.io/flask-text-counter-application/)
+- [HTML Text Counter Application(https://github.com/lulunac27a/html-text-counter-application/) - [Documentation](https://lulunac27a.github.io/html-text-counter-application/)
 ### Gamification Task Lists
 -
   [Gamification Task List with Vue and TypeScript](https://github.com/lulunac27a/gamification-task-list-vue-typescript/)
