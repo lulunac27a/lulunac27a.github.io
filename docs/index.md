@@ -62,7 +62,10 @@ space, and a good computer programmer.
   [Documentation](https://lulunac27a.github.io/react-endless-simple-idle-game/)
 - [Angular Clicker Game](https://github.com/lulunac27a/angular-clicker-game/) -
   [Documentation](https://lulunac27a.github.io/angular-clicker-game/)
-- [Clicker Game in Javascript](https://github.com/lulunac27a/clicker-game-javascript/) - [Documentation](https://lulunac27a.github.io/clicker-game-javascript/)
+-
+  [Clicker Game in Javascript](https://github.com/lulunac27a/clicker-game-javascript/)
+  - [Documentation](https://lulunac27a.github.io/clicker-game-javascript/)
+- [Idle Worker Game](https://github.com/lulunac27a/idle-worker-game) - [Documentation](https://lulunac27a.github.io/idle-worker-game/)
 ### Games
 - [Bingo Game with Score](https://github.com/lulunac27a/bingo-game-with-score/)
   - [Documentation](https://lulunac27a.github.io/bingo-game-with-score/)
