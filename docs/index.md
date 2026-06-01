@@ -36,7 +36,10 @@ space, and a good computer programmer.
   [Gamification Task List with Vue and TypeScript](https://github.com/lulunac27a/gamification-task-list-vue-typescript/)
   -
   [Documentation](https://lulunac27a.github.io/gamification-todo-list-vue-typescript/)
-- [Flask Endless Task List App](https://github.com/lulunac27a/flask-endless-task-list-app/) - [Documentation](https://lulunac27a.github.io/flask-endless-task-list-app/)
+-
+  [Flask Endless Task List App](https://github.com/lulunac27a/flask-endless-task-list-app/)
+  - [Documentation](https://lulunac27a.github.io/flask-endless-task-list-app/)
+- [TaskQuest Gamified Task Manager App](https://github.com/lulunac27a/TaskQuest-gamified-task-manager-app) - [Documentation](https://lulunac27a.github.io/TaskQuest-gamified-task-manager-app)
 ### Level XP and Gamification Systems
 -
   [Flask Endless Level XP System](https://github.com/lulunac27a/flask-endless-level-xp/)
