@@ -28,9 +28,8 @@ space, and a good computer programmer.
   [Documentation](https://lulunac27a.github.io/r-shiny-text-counter-application/)
 -
   [Text Counter Application using Flask](https://github.com/lulunac27a/flask-text-counter-application/)
-  -
-  [Documentation](https://lulunac27a.github.io/flask-text-counter-application/)
-- [HTML Text Counter Application(https://github.com/lulunac27a/html-text-counter-application/) - [Documentation](https://lulunac27a.github.io/html-text-counter-application/)
+  - Documentation](https://lulunac27a.github.io/flask-text-counter-application/)
+- [HTML Text Counter Application](https://github.com/lulunac27a/html-text-counter-application/) - [Documentation](https://lulunac27a.github.io/html-text-counter-application/)
 ### Gamification Task Lists
 -
   [Gamification Task List with Vue and TypeScript](https://github.com/lulunac27a/gamification-task-list-vue-typescript/)
@@ -100,8 +99,7 @@ space, and a good computer programmer.
   [Documentation](https://lulunac27a.github.io/html-form-validation/)
 - [PHP Form Validation](https://github.com/lulunac27a/php-form-validation) - [Documentation](https://lulunac27a.github.io/php-form-validation/)
 ### Other Projects
--
-  [Ordering Shop in CoffeeScript](https://github.com/lulunac27a/ordering-shop-coffeescript/)
+- [Ordering Shop in CoffeeScript](https://github.com/lulunac27a/ordering-shop-coffeescript/)
   - [Documentation](https://lulunac27a.github.io/ordering-shop-coffeescript/)
 - [Counter App in Go](https://github.com/lulunac27a/counter-app-in-go/) -
   [Documentation](https://lulunac27a.github.io/counter-app-in-go/)
@@ -188,4 +186,11 @@ space, and a good computer programmer.
 -
   [Current Date and Time Progress](https://github.com/lulunac27a/current-date-time-progress/)
   - [Documentation](https://lulunac27a.github.io/current-date-time-progress/)
+-
+  [Random Chance for Points](https://github.com/lulunac27a/random-chance-points)
+  - [Documentation](https://lulunac27a.github.io/random-chance-points/)
+-
+  [Surprise Random 2-Digit Number Generator](https://github.com/lulunac27a/surprise-random-2digit-number-generator)
+  -
+  [Documentation](https://lulunac27a.github.io/surprise-random-2digit-number-generator/)
   <script async defer src="https://buttons.github.io/buttons.js"></script>
