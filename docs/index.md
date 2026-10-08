@@ -91,13 +91,21 @@ space, and a good computer programmer.
   - [Documentation](https://lulunac27a.github.io/rust-wasm-typing-game/)
 - [Python Snake Game](https://github.com/lulunac27a/python-snake-game) -
   [Documentation](https://lulunac27a.github.io/python-snake-game)
-- [Go Runner Game](https://github.com/lulunac27a/go-runner-game) - [Documentation](https://lulunac27a.github.io/go-runner-game/)
+- [Go Runner Game](https://github.com/lulunac27a/go-runner-game) -
+  [Documentation](https://lulunac27a.github.io/go-runner-game/)
+- [Hi Lo Bid Game](https://github.com/lulunac27a/hi-lo-bid-game) -
+  [Documentation](https://lulunac27a.github.io/hi-lo-bid-game/)
+- [Wheel Spin Points Game](https://github.com/lulunac27a/wheel-spin-points-game) - [Documentation](https://lulunac27a.github.io/wheel-spin-points-game/)
 ### Simple Apps
 - [Simple Web App](https://github.com/lulunac27a/simple-web-app/) -
   [Documentation](https://lulunac27a.github.io/simple-web-app/)
 - [Simple Python App](https://github.com/lulunac27a/simple-python-app/) -
   [Documentation](https://lulunac27a.github.io/simple-python-app/)
-- [Speed Typing Game](https://github.com/lulunac27a/typing-speed-game-command-line-app/) - [Documentation](https://lulunac27a.github.io/typing-speed-game-command-line-app/)
+-
+  [Speed Typing Game](https://github.com/lulunac27a/typing-speed-game-command-line-app/)
+  -
+  [Documentation](https://lulunac27a.github.io/typing-speed-game-command-line-app/)
+- [Simple Vue Counter](https://github.com/lulunac27a/simple-vue-counter) - [Documentation](https://lulunac27a.github.io/simple-vue-counter/)
 ### Form Validations
 - [HTML Form Validation](https://github.com/lulunac27a/html-form-validation/) -
   [Documentation](https://lulunac27a.github.io/html-form-validation/)
@@ -197,4 +205,10 @@ space, and a good computer programmer.
   [Surprise Random 2-Digit Number Generator](https://github.com/lulunac27a/surprise-random-2digit-number-generator)
   -
   [Documentation](https://lulunac27a.github.io/surprise-random-2digit-number-generator/)
+-
+  [Sun Position Calculator](https://github.com/lulunac27a/sun-position-calculator)
+  - [Documentation](https://lulunac27a.github.io/sun-position-calculator)
+-
+  [Lua Moon Phase Calculator](https://github.com/lulunac27a/lua-moon-phase-calculator)
+  - [Documentation](https://lulunac27a.github.io/lua-moon-phase-calculator/)
   <script async defer src="https://buttons.github.io/buttons.js"></script>
