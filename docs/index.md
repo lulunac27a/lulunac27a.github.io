@@ -87,7 +87,11 @@ space, and a good computer programmer.
   [Documentation](https://lulunac27a.github.io/typescript-character-typing-game/)
 - [Dice Game Web App](https://github.com/lulunac27a/dice-game-webapp/) -
   [Documentation](https://lulunac27a.github.io/dice-game-webapp/)
-- [Rust-Wasm Typing Game](https://github.com/lulunac27a/rust-wasm-typing-game/) - [Documentation](https://lulunac27a.github.io/rust-wasm-typing-game/)
+- [Rust-Wasm Typing Game](https://github.com/lulunac27a/rust-wasm-typing-game/)
+  - [Documentation](https://lulunac27a.github.io/rust-wasm-typing-game/)
+- [Python Snake Game](https://github.com/lulunac27a/python-snake-game) -
+  [Documentation](https://lulunac27a.github.io/python-snake-game)
+- [Go Runner Game](https://github.com/lulunac27a/go-runner-game) - [Documentation](https://lulunac27a.github.io/go-runner-game/)
 ### Simple Apps
 - [Simple Web App](https://github.com/lulunac27a/simple-web-app/) -
   [Documentation](https://lulunac27a.github.io/simple-web-app/)
