@@ -91,11 +91,18 @@ space, and a good computer programmer.
   - [Documentation](https://lulunac27a.github.io/rust-wasm-typing-game/)
 - [Python Snake Game](https://github.com/lulunac27a/python-snake-game) -
   [Documentation](https://lulunac27a.github.io/python-snake-game)
+- [Ruby Gem Mining Game](https://github.com/lulunac27a/ruby-gem-mining-game) -
+  [Documentation](https://lulunac27a.github.io/ruby-gem-mining-game)
+- [C# Music Game](https://github.com/lulunac27a/csharp-music-game) -
+  [Documentation](https://lulunac27a.github.io/csharp-music-game)
 - [Go Runner Game](https://github.com/lulunac27a/go-runner-game) -
   [Documentation](https://lulunac27a.github.io/go-runner-game/)
 - [Hi Lo Bid Game](https://github.com/lulunac27a/hi-lo-bid-game) -
   [Documentation](https://lulunac27a.github.io/hi-lo-bid-game/)
-- [Wheel Spin Points Game](https://github.com/lulunac27a/wheel-spin-points-game) - [Documentation](https://lulunac27a.github.io/wheel-spin-points-game/)
+-
+  [C# and F# Music Game](https://github.com/lulunac27a/csharp-fsharp-music-game)
+  - [Documentation](https://lulunac27a.github.io/csharp-fsharp-music-game/)
+- [Lua Moon Lander Game](https://github.com/lulunac27a/lua-moon-lander-game) - [Documentation](https://lulunac27a.github.io/lua-moon-lander-game/)
 ### Simple Apps
 - [Simple Web App](https://github.com/lulunac27a/simple-web-app/) -
   [Documentation](https://lulunac27a.github.io/simple-web-app/)
@@ -105,7 +112,9 @@ space, and a good computer programmer.
   [Speed Typing Game](https://github.com/lulunac27a/typing-speed-game-command-line-app/)
   -
   [Documentation](https://lulunac27a.github.io/typing-speed-game-command-line-app/)
-- [Simple Vue Counter](https://github.com/lulunac27a/simple-vue-counter) - [Documentation](https://lulunac27a.github.io/simple-vue-counter/)
+- [Simple Vue Counter](https://github.com/lulunac27a/simple-vue-counter) -
+  [Documentation](https://lulunac27a.github.io/simple-vue-counter/)
+- [Rust Mechanical Gears App](https://github.com/lulunac27a/rust-mechanical-gears-app) - [Documentation](https://lulunac27a.github.io/rust-mechanical-gears-app/)
 ### Form Validations
 - [HTML Form Validation](https://github.com/lulunac27a/html-form-validation/) -
   [Documentation](https://lulunac27a.github.io/html-form-validation/)
