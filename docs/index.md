@@ -114,7 +114,10 @@ space, and a good computer programmer.
   [Documentation](https://lulunac27a.github.io/typing-speed-game-command-line-app/)
 - [Simple Vue Counter](https://github.com/lulunac27a/simple-vue-counter) -
   [Documentation](https://lulunac27a.github.io/simple-vue-counter/)
-- [Rust Mechanical Gears App](https://github.com/lulunac27a/rust-mechanical-gears-app) - [Documentation](https://lulunac27a.github.io/rust-mechanical-gears-app/)
+-
+  [Rust Mechanical Gears App](https://github.com/lulunac27a/rust-mechanical-gears-app)
+  - [Documentation](https://lulunac27a.github.io/rust-mechanical-gears-app/)
+- [Wheel Spin Points Game](https://github.com/lulunac27a/wheel-spin-points-game) - [Documentation](https://lulunac27a.github.io/wheel-spin-points-game/)
 ### Form Validations
 - [HTML Form Validation](https://github.com/lulunac27a/html-form-validation/) -
   [Documentation](https://lulunac27a.github.io/html-form-validation/)
