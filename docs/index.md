@@ -102,7 +102,13 @@ space, and a good computer programmer.
 -
   [C# and F# Music Game](https://github.com/lulunac27a/csharp-fsharp-music-game)
   - [Documentation](https://lulunac27a.github.io/csharp-fsharp-music-game/)
-- [Lua Moon Lander Game](https://github.com/lulunac27a/lua-moon-lander-game) - [Documentation](https://lulunac27a.github.io/lua-moon-lander-game/)
+- [Lua Moon Lander Game](https://github.com/lulunac27a/lua-moon-lander-game) -
+  [Documentation](https://lulunac27a.github.io/lua-moon-lander-game/)
+- [Hyper-Surge Game](https://github.com/lulunac27a/hyper-multiplier-arcade) -
+  [Documentation](https://lulunac27a.github.io/hyper-multiplier-arcade/)
+- [Darts Game in Dart](https://github.com/lulunac27a/darts-game-dart) -
+  [Documentation](https://lulunac27a.github.io/darts-game-dart/)
+- [Kotlin Popcorn Game](https://github.com/lulunac27a/kotlin-popcorn-game) - [Documentation](https://lulunac27a.github.io/kotlin-popcorn-game/)
 ### Simple Apps
 - [Simple Web App](https://github.com/lulunac27a/simple-web-app/) -
   [Documentation](https://lulunac27a.github.io/simple-web-app/)
@@ -223,4 +229,6 @@ space, and a good computer programmer.
 -
   [Lua Moon Phase Calculator](https://github.com/lulunac27a/lua-moon-phase-calculator)
   - [Documentation](https://lulunac27a.github.io/lua-moon-phase-calculator/)
-  <script async defer src="https://buttons.github.io/buttons.js"></script>
+- [Java Coffee Shop](https://github.com/lulunac27a/java-coffee-shop) -
+  [Documentation](https://lulunac27a.github.io/java-coffee-shop/) <script async
+  defer src="https://buttons.github.io/buttons.js"></script>
